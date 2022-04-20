@@ -1,5 +1,5 @@
 # stop-and-wait_client-server
-Client transmits a text file of any size, reliably, to the Server
+Client transmits a text file of any size, reliably, to the Server over a UDP Socket
 
 Packets can be sent through a network emulator (emulates a router that drops packets at a specified probability)
 
